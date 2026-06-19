@@ -277,6 +277,9 @@ To assess model performance, multiple evaluation techniques were applied:
 
 ✅ Customer segmentation revealed distinct risk profiles with significant differences in repayment capacity.
 
+<img width="600" height="214" alt="Screenshot 2026-06-19 at 16 46 21" src="https://github.com/user-attachments/assets/a7bbe18c-17b7-4a00-b002-94d74a39c8eb" />
+
+
 ### Business Recommendations
 
 * Prioritize high-risk customers for additional review.
