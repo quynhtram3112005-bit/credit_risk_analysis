@@ -346,14 +346,6 @@ credit-risk-analysis/
 
 University of Economics Ho Chi Minh City (UEH)
 
-### Areas of Interest
-
-* Credit Risk Modelling
-* Risk Analytics
-* Financial Data Analysis
-* Machine Learning in Finance
-* Business Intelligence
-* Data-Driven Decision Making
 
 ```
 ```
